@@ -22,9 +22,9 @@
 	/* SITEMAIN
 	================================================== */
 	/* Modal */
-	.modal-header {
+	/* .modal-header {
 		height: 400px;
-	}
+	} */
 }
 
 /* Medium Devices, Desktops */
@@ -127,9 +127,9 @@
 	}
 
 	/* Modal */
-	.modal-header {
+	/* .modal-header {
 		height: 350px;
-	}
+	} */
 }
 
 /* Small Devices, Tablets */
@@ -390,9 +390,9 @@
 	}
 
 	/* Modal */
-	.modal-header {
+	/* .modal-header {
 		height: 250px;
-	}
+	} */
 
 	/* FOOTER
 	================================================== */
