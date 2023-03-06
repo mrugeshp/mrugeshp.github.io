@@ -74,6 +74,11 @@
 		padding-top: 90px;
 	}
 
+	.site-section.section-awards {
+		padding-top: 10px;
+		padding-bottom: 50px;
+	}
+
 	.section-skills,
 	.section-portfolio,
 	.section-form {
@@ -320,6 +325,11 @@
 	/* site-section */
 	.site-section {
 	   padding-top: 60px;
+	}
+
+	.site-section.section-awards {
+		padding-top: 0;
+		padding-bottom: 50px;
 	}
 
 	.section-skills,
