@@ -454,10 +454,10 @@
 
 	/* FOOTER
 	================================================== */
-	.site-footer .row {
+	/* .site-footer .row {
 		display:flex;
 		flex-direction: column-reverse;	
-	}
+	} */
 
 	.site-footer .text-right{
 		text-align: center;
