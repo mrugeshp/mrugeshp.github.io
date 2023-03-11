@@ -169,7 +169,8 @@
 	}
 
 	.site-logo img {
-		height: 22px;
+		height: 29px;
+    	padding-bottom: 0;
 	}
 
 	/* Navigation */
